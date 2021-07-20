@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #E5E5E5;
+}
+
+.form_kc{
+    margin: 158px 0 0 162px;
+
+}
+
+
+.title{
+    margin-bottom: 20px;
+}
+.btn-delete {
+    background-color:chartreuse;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    font-weight: 400;
+
+}
+.btn-delete:hover{
+    background-color: floralwhite;
+    
+}
+
+.lg {
+position: absolute;
+width: 250px;
+height: 40px;
+left: 162px;
+top: 253px;
+padding: 15px;
+font-size: 15px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+.dealid {
+position: absolute;
+width: 250px;
+height: 40px;
+left: 162px;
+top: 317px;
+padding: 15px;
+font-size: 15px;
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+}
+
+.btn {
+position: absolute;
+width: 250px;
+height: 40px;
+left: 162px;
+top: 381px;
+color: white;
+font-size: 18px;
+background: #0A0A0A;
+}
+
+.btn:hover {
+    background-color: darkgray;
+    color: black;
+}
